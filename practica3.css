@@ -629,3 +629,133 @@ body{
     margin-left: 20%;
     width: 60%;
   }
+
+  #h3contactos{
+    text-align: center;
+    font-size: 50px;
+    color: #0cc3e7;
+  }
+  #h5contactos{
+    text-align: center;
+    font-size: 25px;
+    color: #0cc3e7;
+  }
+
+  #divcontacto{
+    border-radius: 50px;
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1%;
+    background-color: rgba(76, 223, 228, 0.575);
+  }
+
+  #contacto0{
+    
+    border: 2px;
+    border-style: dashed;
+    width: 95%;
+    border-radius: 10px;
+    margin: 35px;
+    border-color: #FFC045;
+    background-color: rgba(240, 248, 255, 0.932);
+    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.692);
+  }
+
+  #separacion{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #h2contacto{
+    margin-left: 1%;
+    margin-top: 1%;
+  }
+
+  #mapa2{
+    margin-left: 1%;
+    margin-top: 1%;
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #0c768b94;
+  }
+  
+  #inputs{
+    margin-top: 1%;
+    margin-left: 8%;
+    border: 3px;
+    border-style: solid;
+    border-radius: 0px;
+    border-color: #0c768b94;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #h3inputs{
+    text-align: center;
+    background-color: #FFC045;
+  }
+
+  #inputs2{
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  #inputs3{
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  #inputs4{
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  
+
+  #inputs{
+    width: 650px;
+    height: 650px;
+  }
+
+  input{
+    width: 40%;
+    height: 90px;
+  }
+
+  textarea{
+    margin-left: 25px;
+    width: 527px;
+    height: 90px;
+  }
+
+  #checkbox{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 30px;
+    height: 1%;
+  }
+
+  #imgcontacto{
+    margin-left: 15%;
+    margin-top: 4%;
+    width: 70%;
+  }
+
+  #privacidad{
+    display: flex;
+  }
+
+  label{
+    margin-top: 19px;
+    margin-left: 5px;
+  }
